@@ -1,0 +1,48 @@
+h1 {
+	text-align: center;
+	padding: 50px;
+	margin: 50px;
+	font-family: Comic Sans MS;
+	color: #32ba8f;
+  font-size: 50px;
+}
+
+
+#info {
+  text-align: center;
+  font-family: Verdana;
+  font-size: 25px;
+}
+
+.butonsud {
+    text-align: center;
+
+}
+
+#resetgame{
+  text-align: center;
+  color: red;
+  margin-left: 520px;
+}
+
+.button {
+    margin: auto;
+    display: block;
+    color: red;
+}
+
+.table {
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Verdana;
+  cursor: pointer;
+
+}
+
+body {
+
+  background-image: url("background.jpg");
+}
